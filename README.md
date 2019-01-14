@@ -1,2 +1,5 @@
-# Notes--
-The repository was created for noting down Python courses.
+#Python是一种 面向对象、解释型 高级程序设计语言。用于简单的文字处理、浏览器、游戏、app后台、网页设计等。
+
+Oject对象，即我们所研究任何事物，比如简单的数字或者复杂的机器人。pyhon是面向对象解决各种问题的一种程序语言。
+
+解释型：py开发过程中不含编译环节，类似于PHP和Perl语言——不懂
